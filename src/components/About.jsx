@@ -41,7 +41,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I am a full-stack web developer with extensive experience in building elegant and functional web interfaces. I excel in teamwork, enjoy solving complex problems, and possess excellent time-management skills. Recently, I participated in a challenging project where I collaborated with the design team to achieve exponential growth in digital channel access and revenue. It was an amazing experience, and I am constantly seeking new opportunities to learn and grow professionally.<br class="sm:block hidden" /><br class="sm:block hidden" />If you are looking for a dedicated and skilled front-end web developer to join your team, I would be thrilled to collaborate on your next project. Please feel free to contact me to discuss any potential opportunities.
+        I am a full-stack web developer with extensive experience in building elegant and functional web interfaces. I excel in teamwork, enjoy solving complex problems, and possess excellent time-management skills. Recently, I participated in a challenging project where I collaborated with the design team to achieve exponential growth in digital channel access and revenue. It was an amazing experience, and I am constantly seeking new opportunities to learn and grow professionally.<br className="sm:block hidden" /><br className="sm:block hidden" />If you are looking for a dedicated and skilled front-end web developer to join your team, I would be thrilled to collaborate on your next project. Please feel free to contact me to discuss any potential opportunities.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
