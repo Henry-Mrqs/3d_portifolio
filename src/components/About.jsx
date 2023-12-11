@@ -39,9 +39,9 @@ const About = () => {
       </motion.div>
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
-        className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
+        className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px] '
       >
-        I am a full-stack web developer with extensive experience in building elegant and functional web interfaces. I excel in teamwork, enjoy solving complex problems, and possess excellent time-management skills. Recently, I participated in a challenging project where I collaborated with the design team to achieve exponential growth in digital channel access and revenue. It was an amazing experience, and I am constantly seeking new opportunities to learn and grow professionally.<br className="sm:block hidden" /><br className="sm:block hidden" />If you are looking for a dedicated and skilled front-end web developer to join your team, I would be thrilled to collaborate on your next project. Please feel free to contact me to discuss any potential opportunities.
+        I am a <strong>front-end</strong> web developer with substantial <strong>experience</strong> in crafting sophisticated and functional web interfaces. I excel in collaborative <strong>teamwork</strong>, thrive on solving complex challenges, and possess exceptional <strong>time management skills</strong>. Recently, I <strong>contributed</strong> to a challenging project where I partnered with the design team to achieve <strong>exponential growth</strong> in digital channel access and revenue. It was an exceptional experience, and I am consistently pursuing new <strong>opportunities</strong> for professional development.<br className="sm:block hidden" /><br className="sm:block hidden" />If you are in <strong>search</strong> of a dedicated and skilled front-end web developer to <strong>enhance your team</strong>, I would be thrilled to <strong>contribute</strong> to your next project. Please feel free to reach out to discuss <strong>potential opportunities</strong>.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>

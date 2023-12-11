@@ -13,6 +13,10 @@
   color-scheme: dark;
 }
 
+.text-shadow-class{
+  text-shadow: 3px 3px 5px rgb( 5 8 22 / 1 );
+}
+
 .hash-span {
   margin-top: -100px;
   padding-bottom: 100px;
