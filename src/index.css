@@ -13,6 +13,39 @@
   color-scheme: dark;
 }
 
+/*Scroll Bar*/
+
+body::-webkit-scrollbar {
+  width: 6px;               /* width of the entire scrollbar */
+}
+
+body::-webkit-scrollbar-track {
+  background: #434343;        /* color of the tracking area */
+}
+
+body::-webkit-scrollbar-thumb {    /* color of the scroll thumb */
+  border-radius: 8px;       /* roundness of the scroll thumb */
+  border: 1px solid #434343;
+  background: -webkit-linear-gradient(-90deg, #00cea8 -12.7%,#5f75f2 32.64%,#9956f6 78.49%,#bf61ff 109.78%);  /* creates padding around scroll thumb */
+}
+
+/*Scroll Bar End*/
+
+.gradient-name{
+  --tw-text-opacity: 1;
+  font-size: 72px;
+  background: linear-gradient(97.57deg,#00cea8 -12.7%,#5f75f2 32.64%,#9956f6 78.49%,#bf61ff 109.78%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.bg-gradient-2{
+  background: linear-gradient(0deg,#00cea8 -12.7%,#5f75f2 32.64%,#9956f6 78.49%,#bf61ff 130%);
+}
+.bg-gradient-3{
+  background: linear-gradient(180deg,#00cea8,#5f75f2,#9956f6,#bf61ff, transparent 98%);
+}
+
 .text-shadow-class{
   text-shadow: 3px 3px 5px rgb( 5 8 22 / 1 );
 }
