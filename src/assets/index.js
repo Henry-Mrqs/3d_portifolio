@@ -1,4 +1,4 @@
-import logo from "./logo.png";
+import logo from "./logo.svg";
 import agile from "./agile.svg";
 import versioning from "./versioning.svg";
 import api from "./api.svg";
@@ -14,13 +14,10 @@ import figma from "./tech/figma.png";
 import git from "./tech/git.png";
 import html from "./tech/html.png";
 import javascript from "./tech/javascript.png";
-import mongodb from "./tech/mongodb.png";
 import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
-import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
-import threejs from "./tech/threejs.svg";
 
 import fasters from "./company/fasters.png";
 import claro from "./company/claro.png";
@@ -44,13 +41,10 @@ export {
   git,
   html,
   javascript,
-  mongodb,
   nodejs,
   reactjs,
-  redux,
   tailwind,
   typescript,
-  threejs,
   fasters,
   claro,
   nomad,
