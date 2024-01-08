@@ -16,7 +16,7 @@ import {
   claro,
   nomad,
   podcastr,
-  jobit,
+  yourshopping,
   imageGenerator,
   bootstrap,
   optimize,
@@ -193,25 +193,25 @@ const projects = [
     source_code_link: "https://github.com/Henry-Mrqs/podcastr",
   },
   {
-    name: "Job IT",
+    name: "Your Shopping",
     description:
-      "Welcome to our podcast streaming site, where audio comes to life! Immerse yourself in a world of riveting conversations. Our functional player boasts numerous features, while dedicated pages provide detailed podcast descriptions and accessible transcriptions. Elevate your listening experience with us!",
+      "Your Shopping stands out by showcasing seamless PayPal SDK payment flow, integrating it into e-commerce for secure transactions. Developed with TypeScript, NodeJS, Bootstrap, Express, and Mustache, the project delivers a smooth and secure online shopping experience, effectively leveraging these technologies.",
     tags: [
       {
-        name: "react",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "restapi",
+        name: "NodeJS",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
-        color: "pink-text-gradient",
+        name: "Mustache",
+        color: "orange-text-gradient",
+      },
+      {
+        name: "TypeScript",
+        color: "blue-text-gradient",
       },
     ],
-    image: jobit,
-    source_code_link: "https://github.com/",
+    image: yourshopping,
+    source_code_link: "https://github.com/Henry-Mrqs/ecommerce-paypal-test",
   },
   {
     name: "AI Image Generator",

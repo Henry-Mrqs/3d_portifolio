@@ -24,7 +24,7 @@ import claro from "./company/claro.png";
 import nomad from "./company/nomad.svg";
 
 import podcastr from "./podcastr-project.png";
-import jobit from "./jobit.png";
+import yourshopping from "./yourshopping.png";
 import imageGenerator from "./imageGenerator.png";
 
 export {
@@ -49,7 +49,7 @@ export {
   claro,
   nomad,
   podcastr,
-  jobit,
+  yourshopping,
   imageGenerator,
   bootstrap,
   optimize,
