@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [ReactJS](https://react.dev/)
 - [SASS](https://sass-lang.com/)
 - [ThreeJS](https://threejs.org/)
-- [EmailJS]([https://www.npmjs.com/package/mustache](https://www.emailjs.com/)
+- [EmailJS](https://www.emailjs.com/)
 
 ## 💻 Projeto
 
